@@ -1,0 +1,5 @@
+# Simulaciones en Proteus
+
+Esta carpeta contiene los archivos de simulación desarrollados en Proteus para validar el funcionamiento de las diferentes etapas del sistema.
+
+Las simulaciones incluyen pruebas de la fuente de corriente, la etapa de amplificación y la respuesta del sistema ante variaciones en la resistencia bajo medición.
