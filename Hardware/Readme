@@ -1,0 +1,9 @@
+Esta carpeta contiene los archivos relacionados con el diseño electrónico del sistema de medición de impedancia.
+
+Aquí se incluyen las simulaciones del circuito realizadas durante el proceso de diseño, así como los archivos del esquemático y del diseño de la placa de circuito impreso (PCB).
+
+Estructura
+
+-proteus/: archivos de simulación utilizados para validar el comportamiento del circuito.
+
+-easyeda/: archivos del diseño esquemático y del layout de la PCB.
