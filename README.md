@@ -39,4 +39,5 @@ En la carpeta `media` se incluye un video de prueba donde se muestra una impleme
 
 ## Autores: Leonel Ricardo Araque // Fabian Andres Amador 
 
-Proyecto académico desarrollado en el área de instrumentación electrónica.
+Proyecto académico desarrollado en el área de Diseño de sistemas electronicos
+
