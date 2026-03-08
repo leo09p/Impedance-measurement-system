@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794880487603",
+    "firebase_url": "https://esp32impedancia-default-rtdb.firebaseio.com",
+    "project_id": "esp32impedancia",
+    "storage_bucket": "esp32impedancia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794880487603:android:e3392fdcb915172a19c0c6",
+        "android_client_info": {
+          "package_name": "com.example.prueva1_wifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794880487603-8h99qotkuuo0af4hht1pcd1uauetir16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQS3oIj_FCmGBWJXg5igFsl0iegn4HYzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794880487603-8h99qotkuuo0af4hht1pcd1uauetir16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
