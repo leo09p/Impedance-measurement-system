@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo de un sistema electrónico para la medición de impedancias de baja magnitud utilizando el método Kelvin de cuatro hilos. El proyecto integra el diseño del hardware, el firmware del microcontrolador y una aplicación móvil para la visualización de los datos.
 
-El sistema utiliza un microcontrolador ESP32 para la adquisición de señales analógicas, procesamiento de datos y transmisión inalámbrica mediante WiFi hacia una aplicación desarrollada en Flutter.
+El sistema utiliza un microcontrolador Xiao ESP32 para la adquisición de señales analógicas, procesamiento de datos y transmisión inalámbrica mediante WiFi hacia una aplicación desarrollada en Flutter.
 
 ## Estructura del repositorio
 
